@@ -886,3 +886,740 @@
     font-size: 20px;
     color: rgba(27,50,79,1);
 }
+/* Demographic Information page CSS */
+#Demographic_Information__4 {
+    position: absolute;
+    width: 375px;
+    height: 812px;
+    background-color: rgba(228,245,253,1);
+    overflow: hidden;
+    --web-view-name: Demographic Information – 4;
+    --web-view-id: Demographic_Information__4;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rectangle_476a {
+    filter: drop-shadow(0px 3px 6px rgba(58, 83, 165, 0.529));
+    position: absolute;
+    overflow: visible;
+    width: 184px;
+    height: 66px;
+    left: 105px;
+    top: 691px;
+}
+#Component_2__34 {
+    position: absolute;
+    width: 103px;
+    height: 22px;
+    left: 136px;
+    top: 702px;
+    overflow: visible;
+    z-index:+1
+}
+#Continue {
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    overflow: visible;
+    width: 104px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#A_little_info_about_you {
+    left: 75px;
+    top: 104px;
+    position: absolute;
+    overflow: visible;
+    width: 226px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(27,50,79,1);
+}
+#Username {
+    left: 70px;
+    top: 168px;
+    position: absolute;
+    overflow: visible;
+    width: 93px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#Gender {
+    left: 71px;
+    top: 296px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#Weight {
+    left: 71px;
+    top: 424px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#Lbs_or_Kgs {
+    left: 70px;
+    top: 553px;
+    position: absolute;
+    overflow: visible;
+    width: 116px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#Age {
+    left: 71px;
+    top: 233px;
+    position: absolute;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#Height {
+    left: 71px;
+    top: 361px;
+    position: absolute;
+    overflow: visible;
+    width: 65px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#Calories_or_Kilojoules {
+    left: 64px;
+    top: 489px;
+    position: absolute;
+    overflow: visible;
+    width: 187px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#Rectangle_486 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_486 {
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 31px;
+    left: 71px;
+    top: 193px;
+}
+#Rectangle_494 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_494 {
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 31px;
+    left: 71px;
+    top: 321px;
+}
+#Rectangle_495 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_495 {
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 31px;
+    left: 71px;
+    top: 386px;
+}
+#Rectangle_497 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_497 {
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 31px;
+    left: 71px;
+    top: 449px;
+}
+#Group_280 {
+    position: absolute;
+    width: 117px;
+    height: 31px;
+    left: 71px;
+    top: 258px;
+    overflow: visible;
+}
+#Rectangle_493 {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_493 {
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    height: 31px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_496 {
+    fill: rgba(73,146,206,1);
+}
+.Rectangle_496 {
+    position: absolute;
+    overflow: visible;
+    width: 38px;
+    height: 31px;
+    left: 79px;
+    top: 0px;
+}
+#Path_20 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_20 {
+    overflow: visible;
+    position: absolute;
+    width: 16.419px;
+    height: 9.328px;
+    left: 91px;
+    top: 13.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_281 {
+    position: absolute;
+    width: 117px;
+    height: 31px;
+    left: 71px;
+    top: 514px;
+    overflow: visible;
+}
+#Rectangle_493_er {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_493_er {
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    height: 31px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_496_es {
+    fill: rgba(73,146,206,1);
+}
+.Rectangle_496_es {
+    position: absolute;
+    overflow: visible;
+    width: 38px;
+    height: 31px;
+    left: 79px;
+    top: 0px;
+}
+#Path_20_et {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_20_et {
+    overflow: visible;
+    position: absolute;
+    width: 16.419px;
+    height: 9.328px;
+    left: 91px;
+    top: 13.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_282 {
+    position: absolute;
+    width: 117px;
+    height: 31px;
+    left: 71px;
+    top: 578px;
+    overflow: visible;
+}
+#Rectangle_493_ev {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_493_ev {
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    height: 31px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_496_ew {
+    fill: rgba(73,146,206,1);
+}
+.Rectangle_496_ew {
+    position: absolute;
+    overflow: visible;
+    width: 38px;
+    height: 31px;
+    left: 79px;
+    top: 0px;
+}
+#Path_20_ex {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_20_ex {
+    overflow: visible;
+    position: absolute;
+    width: 16.419px;
+    height: 9.328px;
+    left: 91px;
+    top: 13.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+.Rectangle_483a {
+    filter: drop-shadow(0px 3px 6px rgba(58, 83, 165, 0.529));
+    position: absolute;
+    overflow: visible;
+    width: 305px;
+    height: 604px;
+    left: 43px;
+    top: 74px;
+}
+/* Goal Calculation Page CSS */
+#Goal_Calculation__4 {
+    position: absolute;
+    width: 375px;
+    height: 812px;
+    background-color: rgba(228,245,253,1);
+    overflow: hidden;
+    --web-view-name: Goal Calculation – 4;
+    --web-view-id: Goal_Calculation__4;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rectangle_483b {
+    filter: drop-shadow(0px 3px 6px rgba(58, 83, 165, 0.529));
+    position: absolute;
+    overflow: visible;
+    width: 305px;
+    height: 604px;
+    left: 43px;
+    top: 74px;
+}
+.Rectangle_476b {
+    filter: drop-shadow(0px 3px 6px rgba(58, 83, 165, 0.529));
+    position: absolute;
+    overflow: visible;
+    width: 145px;
+    height: 66px;
+    left: 203px;
+    top: 691px;
+}
+#Rectangle_498 {
+    fill: rgba(133,211,246,1);
+}
+.Rectangle_498 {
+    filter: drop-shadow(0px 3px 6px rgba(58, 83, 165, 0.529));
+    position: absolute;
+    overflow: visible;
+    width: 147px;
+    height: 66px;
+    left: 43px;
+    top: 691px;
+}
+#Continue1 {
+    left: 230px;
+    top: 702px;
+    position: absolute;
+    overflow: visible;
+    width: 74px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+    z-index: +1
+}
+#Back1 {
+    left: 88px;
+    top: 702px;
+    position: absolute;
+    overflow: visible;
+    width: 40px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+    z-index: +1;
+}
+#What_are_your_Goals {
+    left: 75px;
+    top: 104px;
+    position: absolute;
+    overflow: visible;
+    width: 226px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(27,50,79,1);
+}
+#Weight_Goal {
+    left: 70px;
+    top: 269px;
+    position: absolute;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#What_is_your_activity_level {
+    left: 71px;
+    top: 458px;
+    position: absolute;
+    overflow: visible;
+    width: 222px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+#How_many_LbsKg_per_week_would_ {
+    left: 71px;
+    top: 349px;
+    position: absolute;
+    overflow: visible;
+    width: 230px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+}
+.Rectangle_486b {
+    position: absolute;
+    overflow: visible;
+    width: 228px;
+    height: 31px;
+    left: 71px;
+    top: 294px;
+}
+#Group_280b {
+    position: absolute;
+    width: 117px;
+    height: 31px;
+    left: 71px;
+    top: 398px;
+    overflow: visible;
+}
+#Group_283 {
+    position: absolute;
+    width: 117px;
+    height: 31px;
+    left: 71px;
+    top: 483px;
+    overflow: visible;
+}
+#Rectangle_493_el {
+    fill: rgba(255,255,255,1);
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_493_el {
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    height: 31px;
+    left: 0px;
+    top: 0px;
+}
+#Rectangle_496_em {
+    fill: rgba(73,146,206,1);
+}
+.Rectangle_496_em {
+    position: absolute;
+    overflow: visible;
+    width: 38px;
+    height: 31px;
+    left: 79px;
+    top: 0px;
+}
+#Path_20_en {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_20_en {
+    overflow: visible;
+    position: absolute;
+    width: 16.419px;
+    height: 9.328px;
+    left: 91px;
+    top: 13.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+/* Daily Nutrition Display CSS */
+#Daily_Nutrition_Display__4 {
+    position: absolute;
+    width: 375px;
+    height: 812px;
+    background-color: rgba(228,245,253,1);
+    overflow: hidden;
+    --web-view-name: Daily Nutrition Display – 4;
+    --web-view-id: Daily_Nutrition_Display__4;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+.Rectangle_483c {
+    filter: drop-shadow(0px 3px 6px rgba(58, 83, 165, 0.529));
+    position: absolute;
+    overflow: visible;
+    width: 305px;
+    height: 604px;
+    left: 43px;
+    top: 74px;
+}
+.Rectangle_476c {
+    filter: drop-shadow(0px 3px 6px rgba(58, 83, 165, 0.529));
+    position: absolute;
+    overflow: visible;
+    width: 145px;
+    height: 66px;
+    left: 203px;
+    top: 691px;
+}
+#Edit_Goals {
+    left: 67px;
+    top: 702px;
+    position: absolute;
+    overflow: visible;
+    width: 82px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+    z-index: +1
+}
+#Congratulations {
+    left: 75px;
+    top: 104px;
+    position: absolute;
+    overflow: visible;
+    width: 226px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(27,50,79,1);
+}
+#Your_custom_plan_is_ready_and_ {
+    left: 75px;
+    top: 186px;
+    position: absolute;
+    overflow: visible;
+    width: 219px;
+    white-space: nowrap;
+    line-height: 28px;
+    margin-top: -5.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+    letter-spacing: 0.28px;
+}
+#Your_Daily_Net_Calorie_Goal_is {
+    left: 65px;
+    top: 324px;
+    position: absolute;
+    overflow: visible;
+    width: 246px;
+    white-space: nowrap;
+    line-height: 28px;
+    margin-top: -5.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+    letter-spacing: 0.28px;
+}
+#You_should_be_able_to_lose_up_ {
+    left: 65px;
+    top: 499px;
+    position: absolute;
+    overflow: visible;
+    width: 246px;
+    white-space: nowrap;
+    line-height: 28px;
+    margin-top: -5.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17px;
+    color: rgba(27,50,79,1);
+    letter-spacing: 0.28px;
+}
+#Calories {
+    left: 149px;
+    top: 427px;
+    position: absolute;
+    overflow: visible;
+    width: 72px;
+    white-space: nowrap;
+    line-height: 28px;
+    margin-top: -6.5px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(27,50,79,1);
+    letter-spacing: 0.28px;
+}
+#ID0000 {
+    left: 149px;
+    top: 390px;
+    position: absolute;
+    overflow: visible;
+    width: 72px;
+    white-space: nowrap;
+    line-height: 28px;
+    margin-top: -4px;
+    text-align: center;
+    font-family: Segoe UI;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(27,50,79,1);
+    letter-spacing: 0.28px;
+}
